@@ -1,5 +1,5 @@
 # taskmanagement
-Requirments for Project:
+Requirements for Project:
 
 Download Eclipse IDE
 Download MYSQL for creating databases and storing records into it.
